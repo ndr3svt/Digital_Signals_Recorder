@@ -10,11 +10,11 @@ Main Intellectual Author:
 Andrés Villa Torres, Media Artis & Art Research, Labor5020, University of Bern, Collegium Helveticum
 
 Co-Authors:
-Mike Martin, Behavioural Psychology, UZH
-Hannes Rickli, Visual Arts, ZHdK
-Lukas Stäusi, Electrical Engineering, Smartronic
+Mike Martin, Behavioural Psychology, UZH.
+Hannes Rickli, Visual Arts, ZHdK.
+Lukas Stäusi, Electrical Engineering, Smartronic.
 
-Institutions
-Collegium Helveticum(Zurich Polytechnic Institute, University of Zurich, Zurich University of the Arts)
+Institutions:
+Collegium Helveticum(Zurich Polytechnic Institute, University of Zurich, Zurich University of the Arts), 
 Smartronic GmbH
 
