@@ -11,6 +11,39 @@ https://github.com/andresvillatorres/Digital_Signals_Recorder.git
 
 __________________________________________________________________________________
 
+Structure
+  
+  root ::: contains all the scrypts inside the raspberry pi, you can compile them directly from the pi or run them on the rc.local scrypt
+  
+  ******you may need to install all dependencies on the pi, the error messages will guide you through ;)
+  
+  java app ::: contains all the scrypts from the visualisation app built for processing 3.5.3 and running on mac os x Mojave
+  
+  ******you may need to install or modify the access to some libraries depending on your processing version --- also error messages are self explaining, however I list them all here
+  
+ 
+  
+  // these parts are already written on the scrypts you may not need to modify anything
+  (readingAudio.pde)
+  - import ddf.minim.*;
+  - import ddf.minim.effects.*;
+  
+  in case of errors 
+   - install minim library for sound manipulation
+  
+  (visInterface.pde)
+  - import java.io.File;
+  - import java.util.Arrays;
+
+  // ---------------- loading libraries necessary for doing the jpeg compression
+  - import java.awt.image.BufferedImage;
+  - import javax.imageio.plugins.jpeg.*;
+  - import javax.imageio.*;
+  - import javax.imageio.stream.*;
+  
+
+__________________________________________________________________________________
+
 For future inquires or contributions regarding the project, handbook, hardware and software:
 Andrés Villa Torres info@andresvillatorres.work 
 
