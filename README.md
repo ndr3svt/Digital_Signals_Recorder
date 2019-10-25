@@ -14,13 +14,12 @@ ________________________________________________________________________________
 For future inquires or contributions regarding the project, handbook, hardware and software:
 Andrés Villa Torres info@andresvillatorres.work 
 
-Intellectual and Creative Authorship
+Intellectual and Creative Authorship:
 
-Andrés Villa Torres, Researcher at Collegium Helveticum
-Research, Concept, Design, Prototyping, Fabrication, Engineering, Electronics, Programming
+Andrés Villa Torres, Scientific Researcher at Collegium Helveticum.
+Research, Concept, Design, Prototyping, Fabrication, Engineering, Electronics, Programming.
 
-Lukas Stäussi, Electrical Engineer at Smartronic GmbH
-Electronics, Engineering, Programming
+Lukas Stäussi, Electrical Engineer at Smartronic GmbH. 
+Electronics, Engineering, Programming.
 
-Prof. Hannes Rickli and Prof. Dr. Mike Martin, Fellows at Collegium Helveticum
-Project Board
+Prof. Hannes Rickli, Prof. Dr. Mike Martin, Fellows at Collegium Helveticum. Dr. Christina Röcke, URPP Dynamics of Healthy Aging. University of Zürich. Project Board.
