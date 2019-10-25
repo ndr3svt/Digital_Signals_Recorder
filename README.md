@@ -18,9 +18,15 @@ Structure
   ******you may need to install all dependencies on the pi, the error messages will guide you through ;)
   
   gps
+  
   math
+  
   numpy
-  scipy
+  
+  scipy 
+ 
+  reSpeaker 2-Mics Pi-HAT drivers
+  http://wiki.seeedstudio.com/ReSpeaker_2_Mics_Pi_HAT/
   
   for running with airspy go to the link bellow and follow the instructions
   https://airspy.com/quickstart/
