@@ -27,7 +27,7 @@ Structure
   
   currently developing a version of the project with another EMF recording device
   
-  java app ::: contains all the scrypts from the visualisation app built for processing 3.5.3 and running on mac os x Mojave
+  visInterface ::: contains all the scrypts from the visualisation app built for processing 3.5.3 and running on mac os x Mojave
   
   ******you may need to install or modify the access to some libraries depending on your processing version --- also error messages are self explaining, however I list them all here
   
