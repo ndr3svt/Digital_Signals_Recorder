@@ -17,6 +17,16 @@ Structure
   
   ******you may need to install all dependencies on the pi, the error messages will guide you through ;)
   
+  gps
+  math
+  numpy
+  scipy
+  
+  for running with airspy go to the link bellow and follow the instructions
+  https://airspy.com/quickstart/
+  
+  currently developing a version of the project with another EMF recording device
+  
   java app ::: contains all the scrypts from the visualisation app built for processing 3.5.3 and running on mac os x Mojave
   
   ******you may need to install or modify the access to some libraries depending on your processing version --- also error messages are self explaining, however I list them all here
